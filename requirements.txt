@@ -1,7 +1,9 @@
 streamlit
-pandas
-numpy
-openpyxl
-zipfile
 pydub
-Io
+numpy
+pandas
+matplotlib
+seaborn
+sqlalchemy
+scipy
+openpyxl
