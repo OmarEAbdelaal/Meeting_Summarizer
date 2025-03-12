@@ -7,3 +7,9 @@ seaborn
 sqlalchemy
 scipy
 openpyxl
+PyQt6
+Pydub
+Whisper
+Open
+Moviepy
+Json
