@@ -6,11 +6,10 @@ from io import BytesIO
 
 
 # Streamlit UI
-st.title("Meeting saummarizer")
+st.title("Split audio chunks")
 
 # File uploaders
 mp3_file = st.file_uploader("Upload mp3 File", type=["mp3"])
-
 if mp3_file:
     try:
         #🔹 Python Code to Split by 23MB Chunks
