@@ -8,7 +8,7 @@ from openai import OpenAI
 from moviepy import VideoFileClip
 
 # Set your OpenAI API key here
-client = OpenAI(api_key="sk-b63f6a8d5a8e4f9b8432fb79d2d9c669", base_url="https://api.deepseek.com")
+client = OpenAI(api_key="", base_url="https://api.deepseek.com")
 
 class AudioTranscriptionApp(QWidget):
     def __init__(self):
